@@ -13,6 +13,7 @@
 		CC68D5F722D7930600C23B62 /* ToDoListApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CC68D5F522D7930600C23B62 /* ToDoListApp.xcdatamodeld */; };
 		CC68D5F922D7930900C23B62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC68D5F822D7930900C23B62 /* Assets.xcassets */; };
 		CC68D5FC22D7930900C23B62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC68D5FA22D7930900C23B62 /* LaunchScreen.storyboard */; };
+		CC68D60422D7A4F300C23B62 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC68D60322D7A4F300C23B62 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CC68D5F822D7930900C23B62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC68D5FB22D7930900C23B62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC68D5FD22D7930900C23B62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC68D60322D7A4F300C23B62 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TableViewController.swift; path = ../../TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CC68D5FA22D7930900C23B62 /* LaunchScreen.storyboard */,
 				CC68D5FD22D7930900C23B62 /* Info.plist */,
 				CC68D5F522D7930600C23B62 /* ToDoListApp.xcdatamodeld */,
+				CC68D60322D7A4F300C23B62 /* TableViewController.swift */,
 			);
 			path = ToDoListApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				CC68D5F122D7930600C23B62 /* ViewController.swift in Sources */,
 				CC68D5EF22D7930600C23B62 /* AppDelegate.swift in Sources */,
 				CC68D5F722D7930600C23B62 /* ToDoListApp.xcdatamodeld in Sources */,
+				CC68D60422D7A4F300C23B62 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
